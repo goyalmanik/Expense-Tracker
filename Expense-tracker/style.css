@@ -1,0 +1,42 @@
+.body{
+  background-color: black;
+}
+
+p{
+  font-weight: Bold;
+  font-family: Arial;
+  font-size: large;
+  color: WhitE;
+}
+
+.FLEXBOx{
+  display: flex;
+  margin-bottom: 10px;
+}
+
+input{
+  margin-left: 5px;
+  height: 20px;
+  border-radius: 3PX;
+  border-style: solid;
+  border-width: 1px;
+  padding-left: 5px;
+}
+
+button{
+  margin-top: 15px;
+  height: 35PX;
+  width: 155px;
+  background-color: blue;
+  border: none;
+  color: white;
+  margin-bottom: 5px;
+  border-radius: 6PX;
+  font-weight: bold;
+  font-size: 12PX;
+  margin-right: 13px;
+}
+
+.FLEXBOX2{
+  display: flex;
+}
